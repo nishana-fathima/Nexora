@@ -45,7 +45,7 @@ const features = [
     icon: Brain,
     title: "Smart insights",
     description:
-      "Turn your data into actionable insights with intelligent recommendations.",
+      "Turn your data into actionable insights with intelligent recommendations yes.",
   },
 ];
 
