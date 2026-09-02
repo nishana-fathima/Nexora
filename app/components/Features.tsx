@@ -43,7 +43,7 @@ const features = [
   },
   {
     icon: Brain,
-    title: "Smart insights",
+    // title: "Smart insights",
     description:
       "Turn your data into actionable insights with intelligent recommendations yes.",
   },
